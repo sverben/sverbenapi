@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "socket.io-client": "^4.1.2"
+  },
+  "name": "sverben",
+  "version": "1.0.0",
+  "description": "The sverben api",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sverben/sverbenapi.git"
+  },
+  "author": "sverben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sverben/sverbenapi/issues"
+  },
+  "homepage": "https://github.com/sverben/sverbenapi#readme"
+}
